@@ -1,7 +1,7 @@
 # Capstone Projects Portfolio
 
 ## Overview
-Welcome to my Capstone Projects Portfolio! In this repository, I showcase a collection of capstone projects that I have developed to demonstrate my skills in programming and problem-solving. Each project is designed to address specific challenges and showcase my proficiency in various programming languages and domains.
+Welcome to my Capstone Projects Portfolio! In this repository, I showcase a collection of capstone projects that I have developed to demonstrate my skills in programming and problem-solving. Each project is designed to address specific challenges and showcase my proficiency in Python and its domains.
 
 ## Projects
 ### 1. Deviation Calculator
